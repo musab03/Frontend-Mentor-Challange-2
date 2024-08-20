@@ -1,4 +1,3 @@
-import profile from './assets/images/avatar-jessica.jpeg'
 
 function App() {
 
